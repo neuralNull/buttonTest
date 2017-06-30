@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/frame_last.png</file>
+    </qresource>
+</RCC>
